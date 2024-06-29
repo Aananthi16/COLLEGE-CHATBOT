@@ -7,6 +7,8 @@ Machine Learning: Utilizes sophisticated classification models to accurately pre
 Natural Language Processing: Employs NLP techniques to understand and process user input, making interactions more natural and intuitive.
 Web Integration: Developed as a web application using Flask, allowing users to interact with the chatbot through a user-friendly interface in real-time.
 Scalable and Extensible: Designed to be easily scalable and extensible, enabling the addition of new functionalities and the ability to handle increasing user interactions seamlessly.
+
+
 ![image](https://github.com/Aananthi16/COLLEGE-CHATBOT/assets/150659937/33974a31-b63f-4546-977e-4d9125a409d0)
 
 #Methodology
